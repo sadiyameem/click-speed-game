@@ -16,3 +16,5 @@ I made this because I like creating games and I want to make a simple but fun ga
 I learned how to make a simple game of my interest.
 I struggled with the format of the game.
 
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
